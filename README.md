@@ -13,3 +13,7 @@ This project uses a subset of
 [NYC Open Data's Motor Vehicle Collisions dataset](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data) available
 from
 [Kaggle](https://www.kaggle.com/code/pabsantos/nyc-2020-accidents-eda/data).
+
+## References
+
+- [How to replace text in a string column of a Pandas dataframe - StackOverflow](https://stackoverflow.com/questions/28986489/how-to-replace-text-in-a-string-column-of-a-pandas-dataframe)
